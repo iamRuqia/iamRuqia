@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ruqia Enayat
+Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ruqia Enayat
 =====================================================================================================================================
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
---------------------------
 Web Developer and Designer
-
+=====================================================================================================================================
 
 * 🌍  I'm based in Tehran,Iran
 * ✉️  You can contact me at [ruqiaenayat@gmail.com](mailto:ruqiaenayat@gmail.com)
