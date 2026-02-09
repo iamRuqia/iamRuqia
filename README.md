@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br><br>
 --------------------------
 Web Developer and Designer
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-<br><br>
+
 
 * 🌍  I'm based in Tehran,Iran
 * ✉️  You can contact me at [ruqiaenayat@gmail.com](mailto:ruqiaenayat@gmail.com)
