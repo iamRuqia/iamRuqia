@@ -2,7 +2,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ruqia Enayat
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mounes Enayat
 =====================================================================================================================================
 I'm a dedicated Computer Engineering student at Shahid Beheshti University @[CE@SBU](https://github.com/SBU-CE) with a strong passion for software development and problem-solving. I enjoy exploring different technologies and building projects that bridge the gap between theoretical knowledge and practical application. My journey in tech is driven by curiosity and the desire to create meaningful digital experiences. 
 ## 🛠️ Technical Stack
